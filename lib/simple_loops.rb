@@ -18,7 +18,8 @@ end
 
 def output_array (array)
   counter = 0
-  while counter 
+  while counter < array.length
+   
 end
 
 def return_string_array
