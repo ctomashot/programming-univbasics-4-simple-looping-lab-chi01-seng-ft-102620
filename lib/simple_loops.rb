@@ -21,6 +21,7 @@ def output_array (array)
   while counter < array.length
    puts array[counter]
    counter += 1
+  end
 end
 
 def return_string_array
