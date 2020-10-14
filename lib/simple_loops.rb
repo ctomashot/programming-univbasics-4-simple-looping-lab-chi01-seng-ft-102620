@@ -19,7 +19,7 @@ end
 def output_array (array)
   counter = 0
   while counter < array.length
-   
+   puts array[counter]
 end
 
 def return_string_array
