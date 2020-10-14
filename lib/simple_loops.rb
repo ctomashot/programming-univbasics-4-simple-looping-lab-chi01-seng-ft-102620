@@ -16,8 +16,9 @@ def loop_message_n_times (string, n)
   end
 end
 
-def output_array
-  
+def output_array (array)
+  counter = 0
+  while counter 
 end
 
 def return_string_array
